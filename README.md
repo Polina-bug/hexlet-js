@@ -1,3 +1,4 @@
+npm install lodash
 echo "# hexlet-js" >> README.md
 git init
 git add README.md
