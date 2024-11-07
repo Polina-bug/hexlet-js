@@ -1,5 +1,5 @@
-import app from './src/index.js';
+import from './src/index.js';
 
 const getLastElement = require('./src/index');
 
-getLastElement(["one", "two"]);
+getLastElement(['one', 'two']);
